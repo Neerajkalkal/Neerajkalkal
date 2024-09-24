@@ -1,5 +1,9 @@
-## Hi there 👋
+💫 About Me:
 
+
+
+💻 Tech Stack:
+Java JavaScript CSS3 Bootstrap  html5  MongoDB MySQL Prisma Git GitHub C C++ PowerShell Windows Linux Terminal 
 <!--
 **Neerajkalkal/Neerajkalkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
