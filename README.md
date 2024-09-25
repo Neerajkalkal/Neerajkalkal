@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Developing . I'm focused on creating a seamless user experience with optimized performance.<br>👯 I’m looking to collaborate on Exciting android development projects, especially those involving kotlin, jetpack compose and java. I'm also open to contributing to open-source projects that align with my skills.<br>🤝 I’m looking for help with Exploring DevOps practices and tools. If you have expertise in this area or can recommend resources, I'd love to connect!<br>🌱 I’m currently learning SpringBoot  to enhance my full-stack development skills.<br> The universe is as fascinating as the world of tech!
+🔭 I’m currently working on Android Development . I'm focused on creating a seamless user experience with optimized performance.<br>👯 I’m looking to collaborate on Exciting android development projects, especially those involving kotlin, jetpack compose and java. I'm also open to contributing to open-source projects that align with my skills.<br>🤝 I’m looking for help with Exploring DevOps practices and tools. If you have expertise in this area or can recommend resources, I'd love to connect!<br>🌱 I’m currently learning SpringBoot  to enhance my full-stack development skills.<br> The universe is as fascinating as the world of tech!
 
 
 
